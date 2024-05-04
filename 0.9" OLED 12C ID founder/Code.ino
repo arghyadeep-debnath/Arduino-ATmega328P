@@ -25,6 +25,9 @@ VCC= 3.3V dc
 GND =GND
 SCK/SCL = uno r3 A5
 SDA = uno r3 A4
+
+address code in serial monitor 115200 
+
 */
 #include <Wire.h>
 void setup()
